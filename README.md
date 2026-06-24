@@ -5,7 +5,6 @@ foraging and obstacle avoidance using only binocular vision. The central finding
 the network spontaneously converges to a functional organization isomorphic to
 the vertebrate superior colliculus / optic tectum.
 
-Paper: [arXiv:XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX)
 
 ## Quick Start
 
