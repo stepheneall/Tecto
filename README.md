@@ -5,6 +5,7 @@ foraging and obstacle avoidance using only binocular vision. The central finding
 the network spontaneously converges to a functional organization isomorphic to
 the vertebrate superior colliculus / optic tectum.
 
+Liming, B. (2026). Tecto, a Digital Fish from the Silicon Cambrian, A 128-Neuron Recurrent Network Recapitulates the Optic Tectum. Zenodo. https://doi.org/10.5281/zenodo.20844784
 
 ## Quick Start
 
